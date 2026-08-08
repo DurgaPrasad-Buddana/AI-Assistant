@@ -1,4 +1,5 @@
-<img width="1129" height="547" alt="Image1" src="https://github.com/user-attachments/assets/249524ab-5a0c-420f-8582-c4fec807898d" />
+<img width="1129" height="547" alt="Image1" src="https://github.com/user-attachments/assets/f631daa0-b65d-4935-b915-8f5a918e4dfd" />
+
 <div align="center">
 
 # 🤖⚡ AI Document Q&A Chatbot
@@ -88,12 +89,12 @@ flowchart TD
 ## 📸 Screenshots
 
 | Upload Screen |
-*<img width="1129" height="547" alt="Image1" src="https://github.com/user-attachments/assets/ef7ce429-34bd-4dfe-959d-a0ba3bcbd0d8" />* 
+*<img width="1129" height="547" alt="Image1" src="https://github.com/user-attachments/assets/947bdecd-7d36-4cbf-aea0-d65a9cf7b6a4" />* 
 
 | Chat in Action |
-*<img width="1172" height="617" alt="image2" src="https://github.com/user-attachments/assets/f8ee8577-77ff-476f-ac66-b3c19cd038e5" />*  
-*<img width="1269" height="678" alt="image3" src="https://github.com/user-attachments/assets/98f95716-a443-442f-a5d2-e75063bfbaac" />* 
-*<img width="1320" height="832" alt="image4" src="https://github.com/user-attachments/assets/87ebde86-ba2b-4f63-a278-6e3a351db58a" />* 
+*<img width="1172" height="617" alt="image2" src="https://github.com/user-attachments/assets/a97135d5-b0f0-4d85-bcaf-3a8add288535" />*  
+*<img width="1269" height="678" alt="image3" src="https://github.com/user-attachments/assets/1369f43f-199d-4b04-a674-ecb37f570e3d" />* 
+*<img width="1320" height="832" alt="image4" src="https://github.com/user-attachments/assets/4f55d23f-3347-433c-b6ac-ee768dda5e68" />* 
 
 ---
 
